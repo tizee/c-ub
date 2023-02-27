@@ -5,4 +5,5 @@ int main(int argc, char *argv[]) {
   return 0;
 }
 
+// In Linux this function is executed
 void unreachable() { std::cout << "Hello,world" << std::endl; }
